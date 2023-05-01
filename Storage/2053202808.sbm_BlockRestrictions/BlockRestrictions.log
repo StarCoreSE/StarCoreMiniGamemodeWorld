@@ -1,5 +1,5 @@
-[00:46:29.735] [T1] [DS=False] DEBUG | Log Started
-[00:46:29.776] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[01:48:41.012] [T1] [DS=False] DEBUG | Log Started
+[01:48:41.058] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -714,9 +714,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Mammon
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Nott
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Hecate
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Esper
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Vulcan
