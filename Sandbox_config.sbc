@@ -316,6 +316,11 @@
       <PublishedFileId>2953725395</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Instant Projector">
+      <Name>2096677783.sbm</Name>
+      <PublishedFileId>2096677783</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="InertBlocks">
       <Name>2229276399.sbm</Name>
       <PublishedFileId>2229276399</PublishedFileId>
@@ -324,6 +329,11 @@
     <ModItem FriendlyName="Hydrogen Unbalanced">
       <Name>2660617910.sbm</Name>
       <PublishedFileId>2660617910</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Heavy Assault Systems">
+      <Name>2737684960.sbm</Name>
+      <PublishedFileId>2737684960</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Harmzone Muzzmod">
@@ -411,7 +421,13 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="WeaponCore - 2.4">
+      <Name>1918681825.sbm</Name>
+      <PublishedFileId>1918681825</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-04-30T21:16:11.2301226-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-01T01:33:15.4859837-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
