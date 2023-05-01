@@ -5,11 +5,11 @@
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
     <Position x="-11831.136983330087" y="-23.99952070707765" z="0.17484234243084995" />
-    <Forward x="0.991498053" y="0.12719" z="-0.0274639931" />
-    <Up x="0.128516763" y="-0.9902547" z="0.05365657" />
+    <Forward x="0.9914981" y="0.12719" z="-0.0274640061" />
+    <Up x="0.128516763" y="-0.9902547" z="0.0536565743" />
     <Orientation>
       <X>-0.696853459</X>
-      <Y>-0.0257539041</Y>
+      <Y>-0.0257538985</Y>
       <Z>0.713808537</Z>
       <W>-0.0648797</W>
     </Orientation>
@@ -115,7 +115,7 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>OFFLINE</OnlineMode>
+    <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
@@ -831,6 +831,7 @@ ReplacePaintSurvival=False
       <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1175,6 +1176,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64235,4 +64238,7 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
