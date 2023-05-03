@@ -1,5 +1,5 @@
-[14:27:42.442] [T1] [DS=False] DEBUG | Log Started
-[14:27:42.476] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[15:50:55.221] [T1] [DS=False] DEBUG | Log Started
+[15:50:55.259] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
