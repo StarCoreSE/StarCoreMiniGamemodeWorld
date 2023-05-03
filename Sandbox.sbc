@@ -4,9 +4,9 @@
   <ElapsedGameTime>649654160000</ElapsedGameTime>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
-    <Position x="-11953.363309078068" y="-256.97799577625347" z="109.09252388929281" />
-    <Forward x="0.897197" y="0.360980153" z="-0.2544229" />
-    <Up x="0.1820788" y="-0.8272084" z="-0.5315766" />
+    <Position x="11956.852804261966" y="-8.1481596806725118" z="0.50353388787755227" />
+    <Forward x="-0.8867946" y="0.456873715" z="0.0697260648" />
+    <Up x="-0.4579923" y="-0.8889561" z="-6.310642E-05" />
     <Orientation>
       <X>-0.5409335</X>
       <Y>-0.283159882</Y>
@@ -64194,4 +64194,4 @@ ReplacePaintSurvival=False
     <dictionary />
   </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
-<!-- Saved '2023-05-03T16:14:40.6395004-05:00' with SEToolbox version '1.202.66.1' -->
+<!-- Saved '2023-05-03T14:52:09.1533513-06:00' with SEToolbox version '1.202.66.1' -->
