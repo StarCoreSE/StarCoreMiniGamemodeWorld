@@ -5,13 +5,13 @@
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
     <Position x="11852.878944380212" y="-16.000035131762857" z="-1.6235817272298063" />
-    <Forward x="-0.9957268" y="0.08963761" z="0.0222087838" />
-    <Up x="-0.09186515" y="-0.9860089" z="-0.139094487" />
+    <Forward x="-0.995726764" y="0.08963761" z="0.0222088434" />
+    <Up x="-0.09186516" y="-0.9860089" z="-0.139094487" />
     <Orientation>
       <X>0.7102196</X>
-      <Y>-0.0818076059</Y>
+      <Y>-0.08180761</Y>
       <Z>0.6989939</Z>
-      <W>-0.01740901</W>
+      <W>-0.017409008</W>
     </Orientation>
   </SpectatorPosition>
   <SpectatorSpeed x="0.06666671" y="1" />
@@ -551,6 +551,16 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="GhostGrids">
+      <Name>2969910947.sbm</Name>
+      <PublishedFileId>2969910947</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SC Blockers">
+      <Name>2661300547.sbm</Name>
+      <PublishedFileId>2661300547</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WC Radar">
       <Name>2957590632.sbm</Name>
       <PublishedFileId>2957590632</PublishedFileId>
@@ -841,13 +851,8 @@ ReplacePaintSurvival=False
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1192,6 +1197,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64246,4 +64253,7 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

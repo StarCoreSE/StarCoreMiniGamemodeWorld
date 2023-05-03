@@ -141,6 +141,16 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="GhostGrids">
+      <Name>2969910947.sbm</Name>
+      <PublishedFileId>2969910947</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SC Blockers">
+      <Name>2661300547.sbm</Name>
+      <PublishedFileId>2661300547</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WC Radar">
       <Name>2957590632.sbm</Name>
       <PublishedFileId>2957590632</PublishedFileId>
@@ -430,12 +440,6 @@
       <Name>1939935505.sbm</Name>
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
