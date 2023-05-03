@@ -5,8 +5,8 @@
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
     <Position x="11956.852804261966" y="-8.1481596806725118" z="0.50353388787755227" />
-    <Forward x="-0.8867946" y="0.456873715" z="0.0697260648" />
-    <Up x="-0.4579923" y="-0.8889561" z="-6.310642E-05" />
+    <Forward x="0.897197" y="0.360980153" z="-0.2544229" />
+    <Up x="0.1820788" y="-0.8272084" z="-0.5315766" />
     <Orientation>
       <X>-0.5409335</X>
       <Y>-0.283159882</Y>
@@ -164,7 +164,6 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -488,6 +487,11 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="SCGhostGrids">
+      <Name>2971035078.sbm</Name>
+      <PublishedFileId>2971035078</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCore Enabler Rewards">
       <Name>2961654766.sbm</Name>
       <PublishedFileId>2961654766</PublishedFileId>
@@ -496,11 +500,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="SpraysMod">
       <Name>2414738008.sbm</Name>
       <PublishedFileId>2414738008</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="GhostGrids">
-      <Name>2969910947.sbm</Name>
-      <PublishedFileId>2969910947</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SC Blockers">
@@ -797,12 +796,6 @@ ReplacePaintSurvival=False
       <Name>1939935505.sbm</Name>
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <CreativeTools />
@@ -64194,4 +64187,3 @@ ReplacePaintSurvival=False
     <dictionary />
   </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
-<!-- Saved '2023-05-03T14:52:09.1533513-06:00' with SEToolbox version '1.202.66.1' -->

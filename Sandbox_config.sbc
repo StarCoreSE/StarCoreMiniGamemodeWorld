@@ -141,6 +141,11 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="SCGhostGrids">
+      <Name>2971035078.sbm</Name>
+      <PublishedFileId>2971035078</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCore Enabler Rewards">
       <Name>2961654766.sbm</Name>
       <PublishedFileId>2961654766</PublishedFileId>
@@ -149,11 +154,6 @@
     <ModItem FriendlyName="SpraysMod">
       <Name>2414738008.sbm</Name>
       <PublishedFileId>2414738008</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="GhostGrids">
-      <Name>2969910947.sbm</Name>
-      <PublishedFileId>2969910947</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SC Blockers">
@@ -450,12 +450,6 @@
       <Name>1939935505.sbm</Name>
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
