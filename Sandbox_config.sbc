@@ -141,11 +141,6 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="SCGhostGrids">
-      <Name>2971035078.sbm</Name>
-      <PublishedFileId>2971035078</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Enabler Rewards">
       <Name>2961654766.sbm</Name>
       <PublishedFileId>2961654766</PublishedFileId>
@@ -453,5 +448,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-05-03T16:11:51.964825-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-03T17:42:45.3723773-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
