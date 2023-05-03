@@ -5,8 +5,8 @@
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
     <Position x="11956.852804261966" y="-8.1481596806725118" z="0.50353388787755227" />
-    <Forward x="-0.8867946" y="0.456873745" z="0.06972598" />
-    <Up x="-0.457992345" y="-0.8889561" z="-6.313181E-05" />
+    <Forward x="-0.8867946" y="0.456873715" z="0.0697260648" />
+    <Up x="-0.4579923" y="-0.8889561" z="-6.310642E-05" />
     <Orientation>
       <X>0.7107455</X>
       <Y>-0.172348</Y>
@@ -220,6 +220,7 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -860,6 +861,7 @@ ReplacePaintSurvival=False
       <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1232,6 +1234,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64286,4 +64290,8 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
+<!-- Saved '2023-05-03T14:52:09.1533513-06:00' with SEToolbox version '1.202.66.1' -->
