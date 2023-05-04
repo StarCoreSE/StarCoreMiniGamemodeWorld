@@ -446,7 +446,13 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="WeaponCore - 2.4">
+      <Name>1918681825.sbm</Name>
+      <PublishedFileId>1918681825</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-05-03T17:42:45.3723773-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-03T23:12:12.8452774-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
