@@ -5,13 +5,13 @@
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
     <Position x="11803.619170003549" y="-29.543579661621166" z="45.373536818263368" />
-    <Forward x="0.5219003" y="0.3337398" z="-0.785008132" />
-    <Up x="-0.036377985" y="-0.910738468" z="-0.411378324" />
+    <Forward x="0.521900356" y="0.333739847" z="-0.785008132" />
+    <Up x="-0.0363779664" y="-0.9107385" z="-0.411378354" />
     <Orientation>
       <X>-0.261486083</X>
-      <Y>-0.197790191</Y>
-      <Z>0.941803753</Z>
-      <W>0.07422817</W>
+      <Y>-0.1977902</Y>
+      <Z>0.9418037</Z>
+      <W>0.07422816</W>
     </Orientation>
   </SpectatorPosition>
   <SpectatorSpeed x="19.4619637" y="1" />
@@ -489,6 +489,11 @@ ReplacePaintSurvival=False
       <PublishedFileId>2464635274</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="scliteautosharetrack">
+      <Name>2971952487.sbm</Name>
+      <PublishedFileId>2971952487</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WC Radar">
       <Name>2957590632.sbm</Name>
       <PublishedFileId>2957590632</PublishedFileId>
@@ -607,11 +612,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="SpraysMod">
       <Name>2414738008.sbm</Name>
       <PublishedFileId>2414738008</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Ship Points - Sharetrack Starcore Season 2">
-      <Name>2756825813.sbm</Name>
-      <PublishedFileId>2756825813</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SCCleanModCategories">
@@ -784,13 +784,8 @@ ReplacePaintSurvival=False
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1099,6 +1094,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64173,4 +64170,7 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
