@@ -366,11 +366,6 @@
       <PublishedFileId>2737684960</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Harmzone Muzzmod">
-      <Name>2890480337.sbm</Name>
-      <PublishedFileId>2890480337</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
       <Name>2174915662.sbm</Name>
       <PublishedFileId>2174915662</PublishedFileId>
@@ -451,13 +446,7 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-05-06T16:10:03.4204536-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-06T16:26:31.7379362-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>716486480000</ElapsedGameTime>
+  <ElapsedGameTime>717050320000</ElapsedGameTime>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
-    <Position x="-11855.863028155434" y="2.5848173807040684" z="155.76318960782476" />
+    <Position x="-11855.863028155431" y="2.5848173807047505" z="155.7631896078243" />
     <Forward x="0.241997659" y="-0.269699663" z="-0.932040334" />
-    <Up x="-0.176298037" y="0.932380259" z="-0.31557256" />
+    <Up x="-0.176298037" y="0.932380259" z="-0.31557253" />
     <Orientation>
       <X>-0.149754152</X>
       <Y>-0.107487284</Y>
@@ -21,7 +21,7 @@
   <ControlledObject>138139542444157304</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2023-05-06T16:10:03.4204536-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-06T16:26:31.7379362-05:00</LastSaveTime>
   <SpectatorDistance>36.7568054</SpectatorDistance>
   <WorkshopId>2969689036</WorkshopId>
   <WorkshopId1 xsi:nil="true" />
@@ -296,11 +296,6 @@ ReplacePaintSurvival=False
             <IsLeader>true</IsLeader>
             <IsFounder>true</IsFounder>
           </MyObjectBuilder_FactionMember>
-          <MyObjectBuilder_FactionMember>
-            <PlayerId>144115188075855895</PlayerId>
-            <IsLeader>true</IsLeader>
-            <IsFounder>false</IsFounder>
-          </MyObjectBuilder_FactionMember>
         </Members>
         <JoinRequests />
         <AutoAcceptMember>true</AutoAcceptMember>
@@ -328,6 +323,11 @@ ReplacePaintSurvival=False
             <PlayerId>144115188075855899</PlayerId>
             <IsLeader>true</IsLeader>
             <IsFounder>true</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075855895</PlayerId>
+            <IsLeader>true</IsLeader>
+            <IsFounder>false</IsFounder>
           </MyObjectBuilder_FactionMember>
         </Members>
         <JoinRequests />
@@ -398,7 +398,7 @@ ReplacePaintSurvival=False
         </item>
         <item>
           <Key>144115188075855895</Key>
-          <Value>287319358652640245</Value>
+          <Value>245085451677896178</Value>
         </item>
       </dictionary>
     </Players>
@@ -740,11 +740,6 @@ ReplacePaintSurvival=False
       <PublishedFileId>2737684960</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Harmzone Muzzmod">
-      <Name>2890480337.sbm</Name>
-      <PublishedFileId>2890480337</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
       <Name>2174915662.sbm</Name>
       <PublishedFileId>2174915662</PublishedFileId>
@@ -825,13 +820,8 @@ ReplacePaintSurvival=False
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -840,7 +830,7 @@ ReplacePaintSurvival=False
       <DisplayName>GRE NPC4463</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:10.4709403-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:17.0656968-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-23T23:12:12.0215261-06:00</LastLogoutTime>
       <RespawnShips />
@@ -855,11 +845,11 @@ ReplacePaintSurvival=False
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.06666667" y="0.199999988" z="0.4029136" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:10.4709403-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:17.0676997-05:00</LastLoginTime>
       <SavedCharacters>
         <long>138139542444157304</long>
       </SavedCharacters>
-      <LastLogoutTime>2023-05-06T16:10:03.4204536-05:00</LastLogoutTime>
+      <LastLogoutTime>2023-05-06T16:26:31.7379362-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-11129.26891871264</X>
@@ -874,7 +864,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:18.23494-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:26.5146965-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -887,7 +877,7 @@ ReplacePaintSurvival=False
       <DisplayName>NEU NPC9276</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:10.4709403-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:17.0676997-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-13T15:55:03.9461903-06:00</LastLogoutTime>
       <RespawnShips />
@@ -900,7 +890,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC5502</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:10.4709403-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:17.0676997-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-13T15:55:37.4774061-06:00</LastLogoutTime>
       <RespawnShips />
@@ -913,7 +903,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC7271</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:10.4709403-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:17.0676997-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-13T15:56:10.8932299-06:00</LastLogoutTime>
       <RespawnShips />
@@ -926,7 +916,7 @@ ReplacePaintSurvival=False
       <DisplayName>ADM NPC8867</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:10.4709403-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:17.0676997-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-23T22:30:19.0174251-06:00</LastLogoutTime>
       <RespawnShips />
@@ -939,7 +929,7 @@ ReplacePaintSurvival=False
       <DisplayName>GRN NPC5717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-05-06T16:09:10.4709403-05:00</LastLoginTime>
+      <LastLoginTime>2023-05-06T16:25:17.0676997-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-23T23:11:27.5877603-06:00</LastLogoutTime>
       <RespawnShips />
@@ -1084,7 +1074,7 @@ ReplacePaintSurvival=False
             </Vector3>
           </BuildColorSlots>
           <CreativeToolsEnabled>false</CreativeToolsEnabled>
-          <RemoteAdminSettings>52</RemoteAdminSettings>
+          <RemoteAdminSettings>0</RemoteAdminSettings>
           <PromoteLevel>None</PromoteLevel>
           <BuildArmorSkin>Weldless</BuildArmorSkin>
           <BuildColorSlot>3</BuildColorSlot>
@@ -1176,6 +1166,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -1420,7 +1412,7 @@ ReplacePaintSurvival=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.9319381" y="0.339076638" z="0.128524378" />
+      <SunDirectionNormalized x="0.9314368" y="0.341630578" z="0.125356019" />
       <WeatherPlanetData />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
@@ -63811,7 +63803,7 @@ ReplacePaintSurvival=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>29017</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>87734</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64192,48 +64184,51 @@ ReplacePaintSurvival=False
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft_OtherBones.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSquareSlopedCornerTipTopRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft_OtherBones.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSquareSlopedCornerTipTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeCornerInvTriangle.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSquareSlopedCornerTipTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSquareSlopedCornerTipTopRight.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
