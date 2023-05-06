@@ -85,9 +85,9 @@
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>true</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
-    <TrashFlagsValue>7706</TrashFlagsValue>
+    <TrashFlagsValue>7738</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
-    <BlockCountThreshold>5</BlockCountThreshold>
+    <BlockCountThreshold>5000</BlockCountThreshold>
     <PlayerDistanceThreshold>1500</PlayerDistanceThreshold>
     <OptimalGridCount>0</OptimalGridCount>
     <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
@@ -459,5 +459,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-05-06T16:06:50.4153017-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-06T16:10:03.4204536-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
