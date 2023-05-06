@@ -141,11 +141,6 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Instant Projector">
-      <Name>2096677783.sbm</Name>
-      <PublishedFileId>2096677783</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.2(1.0)-WIP">
       <Name>2189703321.sbm</Name>
       <PublishedFileId>2189703321</PublishedFileId>
@@ -154,11 +149,6 @@
     <ModItem FriendlyName="WCT FreeSubgrid">
       <Name>2464635274.sbm</Name>
       <PublishedFileId>2464635274</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="scliteautosharetrack">
-      <Name>2971952487.sbm</Name>
-      <PublishedFileId>2971952487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WC Radar">
@@ -281,6 +271,11 @@
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="scliteautosharetrack">
+      <Name>2971952487.sbm</Name>
+      <PublishedFileId>2971952487</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCCleanModCategories">
       <Name>2893360222.sbm</Name>
       <PublishedFileId>2893360222</PublishedFileId>
@@ -349,6 +344,11 @@
     <ModItem FriendlyName="Invalid's Vanilla Lobotomizer">
       <Name>2953725395.sbm</Name>
       <PublishedFileId>2953725395</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Instant Projector">
+      <Name>2096677783.sbm</Name>
+      <PublishedFileId>2096677783</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="InertBlocks">
@@ -451,13 +451,7 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-05-06T05:09:24.1453117-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-06T05:26:47.3162316-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
