@@ -1,5 +1,5 @@
-[16:25:26.279] [T1] [DS=False] DEBUG | Log Started
-[16:25:26.342] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[16:42:10.662] [T1] [DS=False] DEBUG | Log Started
+[16:42:10.702] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -932,7 +932,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/EmitterSA
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Beacon/HarmBeacon
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeGatlingTurret/LargeGatlingTurret_SC
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeBlockMediumCalibreTurret_SC
