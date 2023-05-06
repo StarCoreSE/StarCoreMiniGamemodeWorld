@@ -6,7 +6,7 @@
   <SpectatorPosition>
     <Position x="-11855.863028155429" y="2.5848173807041821" z="155.7631896078243" />
     <Forward x="0.241997659" y="-0.269699663" z="-0.932040334" />
-    <Up x="-0.176298037" y="0.932380259" z="-0.31557256" />
+    <Up x="-0.176298037" y="0.932380259" z="-0.31557253" />
     <Orientation>
       <X>-0.149754152</X>
       <Y>-0.107487284</Y>
@@ -515,6 +515,11 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="BoostedThrustersLite">
+      <Name>2972423057.sbm</Name>
+      <PublishedFileId>2972423057</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.2(1.0)-WIP">
       <Name>2189703321.sbm</Name>
       <PublishedFileId>2189703321</PublishedFileId>
@@ -780,11 +785,6 @@ ReplacePaintSurvival=False
       <PublishedFileId>514062285</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="BoostedThrustersMuzzmod">
-      <Name>2669855688.sbm</Name>
-      <PublishedFileId>2669855688</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Block Restrictions">
       <Name>2053202808.sbm</Name>
       <PublishedFileId>2053202808</PublishedFileId>
@@ -820,13 +820,8 @@ ReplacePaintSurvival=False
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1171,6 +1166,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64231,4 +64228,7 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
