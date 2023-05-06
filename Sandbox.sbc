@@ -5,13 +5,13 @@
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <SpectatorPosition>
     <Position x="11803.619170003549" y="-29.543579661621166" z="45.373536818263368" />
-    <Forward x="0.521900356" y="0.333739847" z="-0.785008132" />
-    <Up x="-0.0363779664" y="-0.9107385" z="-0.411378354" />
+    <Forward x="0.5219003" y="0.333739847" z="-0.785008132" />
+    <Up x="-0.0363779441" y="-0.9107383" z="-0.411378354" />
     <Orientation>
-      <X>-0.261486083</X>
-      <Y>-0.1977902</Y>
+      <X>-0.261486053</X>
+      <Y>-0.19779022</Y>
       <Z>0.9418037</Z>
-      <W>0.07422816</W>
+      <W>0.074228175</W>
     </Orientation>
   </SpectatorPosition>
   <SpectatorSpeed x="19.4619637" y="1" />
@@ -479,6 +479,11 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Instant Projector">
+      <Name>2096677783.sbm</Name>
+      <PublishedFileId>2096677783</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.2(1.0)-WIP">
       <Name>2189703321.sbm</Name>
       <PublishedFileId>2189703321</PublishedFileId>
