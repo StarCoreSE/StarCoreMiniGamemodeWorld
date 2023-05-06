@@ -1,5 +1,5 @@
-[22:11:41.522] [T1] [DS=False] DEBUG | Log Started
-[22:11:41.560] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[05:08:22.360] [T1] [DS=False] DEBUG | Log Started
+[05:08:22.423] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1112,6 +1112,10 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_BatteryBlock/200x50 Rectangle
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/100x50 Rectangle
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/ZoneBlock
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_CargoContainer/Prizebox
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
