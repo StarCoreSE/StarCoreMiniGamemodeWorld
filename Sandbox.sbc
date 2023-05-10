@@ -515,6 +515,11 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Starcore Reaction Control System">
+      <Name>2973091771.sbm</Name>
+      <PublishedFileId>2973091771</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="BoostedThrustersLite">
       <Name>2972423057.sbm</Name>
       <PublishedFileId>2972423057</PublishedFileId>
