@@ -515,6 +515,11 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Military Industrial Complex">
+      <Name>2902380862.sbm</Name>
+      <PublishedFileId>2902380862</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
       <Name>2973091771.sbm</Name>
       <PublishedFileId>2973091771</PublishedFileId>
