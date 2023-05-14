@@ -141,6 +141,16 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
+      <Name>2414546174.sbm</Name>
+      <PublishedFileId>2414546174</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SCInstProj">
+      <Name>2975560846.sbm</Name>
+      <PublishedFileId>2975560846</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Military Industrial Complex">
       <Name>2902380862.sbm</Name>
       <PublishedFileId>2902380862</PublishedFileId>
@@ -361,11 +371,6 @@
       <PublishedFileId>2953725395</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Instant Projector">
-      <Name>2096677783.sbm</Name>
-      <PublishedFileId>2096677783</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="InertBlocks">
       <Name>2229276399.sbm</Name>
       <PublishedFileId>2229276399</PublishedFileId>
@@ -464,5 +469,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-05-12T19:29:10.7132353-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-14T05:01:28.411914-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

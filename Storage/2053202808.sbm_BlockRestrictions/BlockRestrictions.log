@@ -1,5 +1,5 @@
-[17:27:46.049] [T1] [DS=False] DEBUG | Log Started
-[17:27:46.141] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[04:54:39.708] [T1] [DS=False] DEBUG | Log Started
+[04:54:39.784] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1116,6 +1116,20 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Beacon/ZoneBlock
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_CargoContainer/Prizebox
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/BALLER
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CLB2X
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/MetalStorm
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SLAM
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_RCS_Computer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_RCS_Computer_small
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/TaiidanHangarBomberMedium
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
