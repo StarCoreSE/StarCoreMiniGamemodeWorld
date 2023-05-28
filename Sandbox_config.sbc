@@ -87,7 +87,7 @@
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
     <TrashFlagsValue>7738</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
-    <BlockCountThreshold>5000</BlockCountThreshold>
+    <BlockCountThreshold>500</BlockCountThreshold>
     <PlayerDistanceThreshold>1500</PlayerDistanceThreshold>
     <OptimalGridCount>0</OptimalGridCount>
     <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
@@ -141,6 +141,16 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="SCLiteEnemyAI">
+      <Name>2982065308.sbm</Name>
+      <PublishedFileId>2982065308</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Modular Encounters Systems">
+      <Name>1521905890.sbm</Name>
+      <PublishedFileId>1521905890</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
       <Name>2414546174.sbm</Name>
       <PublishedFileId>2414546174</PublishedFileId>
@@ -461,13 +471,7 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>StarCoreMiniGamemodeWorld</SessionName>
-  <LastSaveTime>2023-05-23T20:30:21.6335362-05:00</LastSaveTime>
+  <LastSaveTime>2023-05-28T18:13:09.1219832-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
