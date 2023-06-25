@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -78,7 +78,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>30000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -174,11 +174,6 @@
     <ModItem FriendlyName="BoostedThrustersLite">
       <Name>2972423057.sbm</Name>
       <PublishedFileId>2972423057</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(1.0)-WIP">
-      <Name>2189703321.sbm</Name>
-      <PublishedFileId>2189703321</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WCT FreeSubgrid">
@@ -471,7 +466,12 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="WeaponCore - 2.4">
+      <Name>1918681825.sbm</Name>
+      <PublishedFileId>1918681825</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
-  <SessionName>PVPVE KOTH</SessionName>
+  <SessionName>StarCoreMiniGamemodeWorld</SessionName>
   <LastSaveTime>2023-05-28T18:13:09.1219832-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
